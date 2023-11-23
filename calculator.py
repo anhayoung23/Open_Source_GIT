@@ -9,3 +9,10 @@ def sub(a, b);
 #multiply
 def mul(a, b);
     return a*b
+
+#divide
+def div_premium(a, b):
+    return a/b
+
+def mix(a, b, c):
+    return a+b-c
