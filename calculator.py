@@ -13,3 +13,5 @@ def mul(a, b):
 def div_main(a, b):
     return a/b
 
+def square(a):
+    return a*a
