@@ -7,4 +7,4 @@ print(result)
 
 #f-string
 result2=f"{x}+{y}={x+y}"
-print(reslut2)
+print(result2)
